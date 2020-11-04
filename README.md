@@ -1,6 +1,6 @@
 # GCE-O-Level-Electronics-Coursework
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)\
-Coursework Report for GCE O Levels Electronics (Syllabus 6063)
+Coursework Report for GCE O Levels Electronics (Syllabus 6063)\
 This coursework report was completed in 2019
 
 ## License
